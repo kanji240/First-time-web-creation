@@ -110,7 +110,7 @@ main {
     display: flex;
     gap: 20px;
     width: 100%;
-    overflow-x: aoto;
+    overflow-x: auto;
 }
 .feature-item {
    flex: 0 0 300px;
