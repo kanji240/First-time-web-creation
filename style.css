@@ -110,9 +110,10 @@ main {
     display: flex;
     gap: 20px;
     width: 100%;
+    overfiow-x: aoto;
 }
 .feature-item {
-   flex: 1;
+   flex: 0 0 300px;
 }
 .feature {
     background-color:  rgb(31, 69, 31);
