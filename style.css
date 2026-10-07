@@ -8,7 +8,7 @@ body {
     padding: 0px 50px 50px;
     background-image: url(./IMG_7475（大）.jpeg);
     background-position: center;
-    background-size: cover;
+    background-size: 100% auto;
 }
 .hero h1 {
     margin-top: -20px;
@@ -173,7 +173,7 @@ footer {
     width: 100%;
     text-align: center;
     background-image: url(./IMG_7465（大）.jpeg);
-    background-size: cover;
+    background-size: 100% auto;
     background-position: center 40%;
     padding-top: 30px;
     padding-bottom: 25px;
