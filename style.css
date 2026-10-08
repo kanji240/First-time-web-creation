@@ -239,21 +239,23 @@ header p {
         height: auto;
         display: block;
         text-align: center;
-    }
-    .hero h1 {
+} 
+.hero h1 {
         font-size: 40px;
-    }
-    header .title {
+ }
+header .title {
         font-size: 35px;
-    }
-    header span {
+}
+header span {
         display: block;
         margin-top: 15px;
         font-size: 15px;
-    }
-    .About {
+}
+@media (max-width: 600px) {  
+}
+.About {
         display: block;
-    }
+}
 
 
 
