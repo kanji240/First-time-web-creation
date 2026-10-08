@@ -266,6 +266,9 @@ header p {
     .feature-item {
     flex: 0 0 300px;
     }
+    .test h3 {
+        marjin-bottom: 30px;
+    }
     .Nature-text {
         text-align: center;
     }
