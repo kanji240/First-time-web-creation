@@ -233,7 +233,9 @@ main .last-text {
 html, body {
     overflow-x: hidden;
 }
+@media (max-width: 600px) {
 
+}
 
 
 
