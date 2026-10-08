@@ -239,6 +239,9 @@ html, body {
         display: block;
         text-align: center;
     }
+    h1 {
+        font-size: 30px;
+    }
     header .title {
         font-size: 35px;
     }
