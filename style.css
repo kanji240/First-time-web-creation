@@ -268,6 +268,7 @@ header p {
     flex: 0 0 300px;
     }
     .feature-item img {
+        mix-blend-mode: multiply;
         background-color: rgb(7, 42, 7);
     }
     .Nature-text {
