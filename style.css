@@ -234,7 +234,6 @@ html, body {
     overflow-x: hidden;
 }
 @media (max-width: 600px) {  
-}
 header p {
         height: auto;
         display: block;
@@ -259,6 +258,7 @@ header span {
         height: auto;
         margin-left: 0;
         padding: 0;
+}
 }
 
 
